@@ -44,7 +44,10 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
+<<<<<<< HEAD
   ["Saxophone", "Piano", "Trumpet", "Violin", "Drums", "Flute"]
+=======
+>>>>>>> 8d39085ed6c5658f4b57d7938ccbaed8edb46463
   .flatten
 end
 
